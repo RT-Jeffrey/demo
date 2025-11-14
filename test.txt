@@ -3,3 +3,9 @@ This is a test file
 line 2
 
 line 3
+
+Feature B Code
+
+line 2
+
+line 3
